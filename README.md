@@ -9,6 +9,14 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira&size=30&duration=4967&pause=1000&color=95228ECD&center=true&width=435&lines=I'm+Bishwa+Thakuri;Full+Stack+Developer;https%3A%2F%2Fbishwathakuri.me" alt="Typing SVG" />
 </p>
 
+<!-- Social icons section -->
+<p align="center">
+   <a href="https://www.linkedin.com/in/bishwa-thakuri-37b32b19a/" alt="Linkedin" title="LinkedIn"><img width="32px" src="assets/linkedin.png"/></a>
+   &#8287;&#8287;&#8287;&#8287;&#8287;
+   <a href="https://instagram.com/bishwa_thakuri"><img width="32px" alt="Instagram" title="Instagram" src="assets/instagram.png"></a>
+</p>
+<br/>
+
 A passionate full stack developer from Nepal
 
 - 🔭 I’m currently working as Junior Full Stack Developer
