@@ -35,8 +35,8 @@
 <span><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" title="Java" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ logo" title="C++" height="25" /></span>&nbsp;
-<span><img src="https://img.shields.io/badge/Lravel-%ff69b4.svg?style=for-the-badge&logo=Laravel&logoColor=orange" alt="Laravel logo" title="Laravel" height="25" /></span>&nbsp;
-<span><img src="https://img.shields.io/badge/PHP-%ff69b4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP logo" title="Laravel" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/Lravel-%23323330.svg?style=for-the-badge&logo=Laravel&logoColor=orange" alt="Laravel logo" title="Laravel" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/PHP-3670A0.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP logo" title="Laravel" height="25" /></span>&nbsp;
 
 <!--
 **BishwaThakuri/BishwaThakuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
