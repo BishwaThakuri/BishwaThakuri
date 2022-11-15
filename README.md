@@ -25,6 +25,17 @@
 
 [![Bishwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=BishwaThakuri&show_icons=true&theme=onedark&count_private=true)](https://github-readme-stats.vercel.app/api?username=BishwaThakuri&show_icons=true&theme=onedark&count_private=true) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=BishwaThakuri&layout=compact&show_icons=true&theme=onedark&count_private=true)
 
+
+<!-- Technologies -->
+
+## 🛠 Technologies and tools
+
+<span><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" title="python" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" title="git" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" title="Java" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ logo" title="C++" height="25" /></span>&nbsp;
+
 <!--
 **BishwaThakuri/BishwaThakuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
