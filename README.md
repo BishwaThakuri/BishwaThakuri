@@ -14,6 +14,8 @@
    <a href="https://www.linkedin.com/in/bishwa-thakuri-37b32b19a/" alt="Linkedin" title="LinkedIn"><img width="32px" src="assets/linkedin.png"/></a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="https://instagram.com/bishwa_thakuri"><img width="32px" alt="Instagram" title="Instagram" src="assets/instagram.png"></a>
+   &#8287;&#8287;&#8287;&#8287;&#8287;
+   <a href="https://bishwathakuri.me"><img width="32px" alt="Ko-fi" title="bishwathakuri.me" src="assets/portfolio.png"/></a>
 </p>
 <br/>
 
