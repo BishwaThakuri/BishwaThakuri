@@ -1,4 +1,13 @@
-### Hi 👋, I'm Bishwa Thakuri
+<!-- ### Hi 👋, I'm Bishwa Thakuri -->
+
+<h3 align="center" style="color:">
+    Welcome to my profile
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira&duration=4967&pause=1000&color=95228ECD&center=true&width=435&lines=I'm+Bishwa+Thakuri;Full+Stack+Developer;https%3A%2F%2Fbishwathakuri.me" alt="Typing SVG" />
+</p>
 
 A passionate full stack developer from Nepal
 
