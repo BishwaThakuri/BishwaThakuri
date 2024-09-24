@@ -6,16 +6,16 @@
 </h3>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira&size=30&duration=4967&pause=1000&color=95228ECD&center=true&width=435&lines=I'm+Bishwa+Thakuri;Full+Stack+Developer;https%3A%2F%2Fbishwathakuri.me" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira&size=30&duration=4967&pause=1000&color=95228ECD&center=true&width=435&lines=I'm+Bishwa+Thakuri;Full+Stack+Developer;https%3A%2F%2Fbishwathakuri.com.np" alt="Typing SVG" />
 </p>
 
 <!-- Social icons section -->
 <p align="center">
-   <a href="https://www.linkedin.com/in/bishwa-thakuri-37b32b19a/" alt="Linkedin" title="LinkedIn"><img width="32px" src="assets/linkedin.png"/></a>
+   <a href="[https://www.linkedin.com/in/bishwa-thakuri-37b32b19a/](https://www.linkedin.com/in/bishwa-thakuri)" alt="Linkedin" title="LinkedIn"><img width="32px" src="assets/linkedin.png"/></a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="https://instagram.com/bishwa_thakuri"><img width="32px" alt="Instagram" title="Instagram" src="assets/instagram.png"></a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://bishwathakuri.me"><img width="32px" alt="Ko-fi" title="bishwathakuri.me" src="assets/portfolio.png"/></a>
+   <a href="https://bishwathakuri.com.np"><img width="32px" alt="Ko-fi" title="bishwathakuri.com.np" src="assets/portfolio.png"/></a>
 </p>
 <br/>
 
