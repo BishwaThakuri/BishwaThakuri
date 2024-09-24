@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=I'm+Bishwa+Thakuri;Full+Stack+Developer;https%3A%2F%2Fbishwathakuri.com.np" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=I'm+Bishwa+Thakuri;Full+Stack+Developer" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social icons section -->
