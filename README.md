@@ -11,7 +11,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-   <a href="[https://www.linkedin.com/in/bishwa-thakuri-37b32b19a/](https://www.linkedin.com/in/bishwa-thakuri)" alt="Linkedin" title="LinkedIn"><img width="32px" src="assets/linkedin.png"/></a>
+   <a href="https://www.linkedin.com/in/bishwa-thakuri" alt="Linkedin" title="LinkedIn"><img width="32px" src="assets/linkedin.png"/></a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="https://instagram.com/bishwa_thakuri"><img width="32px" alt="Instagram" title="Instagram" src="assets/instagram.png"></a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
