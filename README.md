@@ -7,7 +7,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=700&lines=I'm+Bishwa+Thakuri;🚀+Full-Stack+Developer+%7C+AI+%26+ML+Explorer;💡+Passionate+About+Tech+%26+Innovation;🌍+Trying+to+Build+Something+Awesome!" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&size=25&pause=1000&width=800&lines=I'm+Bishwa+Thakuri;🚀+Full-Stack+Developer+%7C+AI+%26+ML+Explorer;💡+Passionate+About+Tech+%26+Innovation;🌍+Trying+to+Build+Something+Awesome!" alt="Typing SVG" />
     </a>
 </p>
 
